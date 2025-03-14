@@ -11,9 +11,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/MXNOJBE/MXNOJBE/output/snake.svg" alt="Snake animation" />
-
-###
