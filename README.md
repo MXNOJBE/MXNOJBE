@@ -9,5 +9,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
-  <img src="https://pngdownload.io/png-image/canva-logo-design-platform-emblem-png-transparent-recognizable-and-creative/" height="40" alt="canva logo"  />
+  <img src="https://pngdownload.io/wp-content/uploads/2023/12/Canva-Logo-Design-Platform-Emblem-PNG-Transparent-Recognizable-and-Creative-jpg.webp" height="40" alt="canva logo"  />
 </div>
